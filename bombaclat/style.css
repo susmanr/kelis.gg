@@ -1,0 +1,30 @@
+.dui{
+    color:aqua;
+}
+
+.block1{
+    border: solid;
+    width: 200px;
+    height: 200px;
+    border-width: 4px;
+    background-color: rgb(220, 20, 60);
+    text-align: center;
+}
+.block2{
+    border: solid;
+    width: 200px;
+    height: 200px;
+    border-width: 4px;
+    background-color: rgb(60, 220, 20);
+    margin-left: 208px;
+    text-align: center;
+}
+.block3{
+    border: solid;
+    width: 200px;
+    height: 200px;
+    border-width: 4px;
+    background-color: rgb(20, 60, 220);
+    margin-left: 416px;
+    text-align: center;
+}
